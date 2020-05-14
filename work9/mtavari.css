@@ -1,0 +1,56 @@
+.first{
+    height: 500px;
+    width: 200px;
+    background-color: rgb(131, 131, 131);
+}
+.white{
+    background-color: white;
+    vertical-align: top;
+    width: 820px;
+    position: relative;
+}
+.last{
+    height: 30px;
+}
+.border{
+    border-collapse: collapse;
+}
+.photo1{
+    margin-left: 70px;
+    margin-top: 50px;
+}
+.photo2{
+    margin-left: 30px;
+    margin-top: 50px;
+    position: absolute;
+}
+.bb{
+    height: 300px;
+}
+.first1{
+    background-color: rgb(196, 196, 196)
+}
+.head{
+    height: 130px;
+    background-image: repeating-linear-gradient(to right, rgb(33, 1, 54), rgb(7, 7, 160));
+    font-size: 2.5em;
+    font-style: italic;
+}
+td{
+    padding: 5px;
+}
+.ho{
+    width: 280px;
+}
+div{
+    border: solid 1px rgb(104, 16, 16);
+    background-color: rgb(104, 16, 16);
+    height: 270px;
+    width: 150px;
+    color: white;
+    font-size: 2.2em;
+    text-align: center;
+}
+label{
+    color: blue;
+}

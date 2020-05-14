@@ -1,0 +1,59 @@
+form{
+    border: 1px solid rgb(86, 192, 86);
+    margin: auto;
+    background-color: rgb(242, 255, 254);
+    width: 890px;
+    height: 520px;
+    border-radius: 8px;
+    position: relative;
+}
+.finput{
+    padding: 7px;
+    border-radius: 5px;
+    border: 1px solid rgb(151, 151, 151);
+    width: 367px;
+    font-size: 1.2em;
+}
+textarea{
+    border-radius: 5px;
+    border: 1px solid rgb(151, 151, 151);
+    font-size: 1.2em;
+}
+.left{
+    position: absolute;
+    top: 30px;
+    left: 30px;
+    width: 390px;
+    min-height: 50px;
+}
+.right{
+    position: absolute;
+    top: 40px;
+    right: 60px;
+    width: 390px;
+    min-height: 50px;
+}
+.hr{
+    position: absolute;
+    top: 410px;
+    left: 30px;
+    border: rgb(86, 192, 86) solid 1px;
+    background-color: rgb(86, 192, 86);
+    width: 820px;
+    height: 1px;
+}
+.sign{
+    position: absolute;
+    background-color: rgb(86, 192, 86);
+    color: white;
+    width: 245px;
+    font-size: 1.1em;
+    border: 1px solid rgb(180, 180, 180);
+    padding: 9px;
+    border-radius: 5px;
+    top: 440px;
+    left: 320px;
+}
+label{
+    color: rgb(86, 192, 86);
+}

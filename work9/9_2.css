@@ -1,0 +1,46 @@
+form{
+    width: 630px;
+    height: 480px;
+    border: solid 2px black;
+    margin: auto;
+    position: relative;
+}
+.text{
+    position: absolute;
+    left: 15px;
+}
+.text2{
+    right: 15px;
+    position: absolute;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+div{
+    position: absolute;
+    top: 80px;
+}
+.left{
+    left: 0px;
+    width: 100px;
+    text-align: right;
+    color: rgb(78, 78, 78);
+}
+.right{
+    right: 0px;
+    width: 500px;
+}
+input{
+    border-top: hidden;
+    border-left: hidden;
+    border-right: hidden;
+}
+textarea{
+    border-top: hidden;
+    border-left: hidden;
+    border-right: hidden;
+}
+input:focus{
+    outline: 0;
+}
